@@ -1,0 +1,42 @@
+.mainbar {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+  margin-left: 300px;
+}
+
+.logoutbtn {
+  border-radius: 10px;
+  width: 80px;
+  height: 30px;
+  background-color: black;
+  color: white;
+  margin-right: 30px;
+  margin-right: 300px;
+}
+
+.mybook {
+  background-color: white;
+  width: 250px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  border-color: lightgrey;
+
+  margin-left: 50px;
+}
+
+.bookdetail_main {
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+.bookdetail {
+  display: flex;
+  padding-top: 50px;
+}
+
+.bookname_title {
+  margin-top: 0px;
+  margin-left: 50px;
+}
