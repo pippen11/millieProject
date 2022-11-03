@@ -34,9 +34,22 @@
 .bookdetail {
   display: flex;
   padding-top: 50px;
+  border-style: solid;
+  border-color: beige;
 }
 
 .bookname_title {
   margin-top: 0px;
   margin-left: 50px;
+}
+
+.book_info {
+  width: 1300px;
+  height: 150px;
+  border-style: solid;
+  border-color: beige;
+}
+
+.bookdetail-info {
+  margin-top: 10px;
 }
